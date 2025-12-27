@@ -1,6 +1,6 @@
 <?php
 try{
-$serverName = "ppdemo-sql-sonego-tp2025.database.windows.net";
+$serverName = "ppdemo-sql-msonego-tp2025.database.windows.net";
 $database   = "ppdemo";
 $uid        = "sqladminuser";
 $pwd        = "vBU&3h#xEvvgc7mp";
